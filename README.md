@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning multiple subjects in high school.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I can 
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I know a lot of fun facts about dinosaurs!
 
 <!---
 Sarah-Jay-Rizvi/Sarah-Jay-Rizvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
