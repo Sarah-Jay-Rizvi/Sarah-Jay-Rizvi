@@ -8,6 +8,10 @@
 - 💻 I can do HTML coding and Python coding.
 - 🗣️ I know 6 languages: English, French, Hindi, Urdu, German (A1 Level), Arabic (Can Read).
 
+  https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white
+
+  https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white
+
 
 <!---
 Sarah-Jay-Rizvi/Sarah-Jay-Rizvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
